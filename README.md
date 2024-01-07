@@ -1,10 +1,4 @@
-![pic3](https://github.com/ifxo/reseinww/assets/65109434/497deff7-e0e1-42df-bbfd-df3526e2a6e5)# ![pic1](https://github.com/ifxo/reseinww/assets/65109434/7b910fe9-e158-42cb-a79b-9e8bdd1361ba)![pic2](https://github.com/ifxo/reseinww/assets/65109434/15c8dbcb-e9d8-4871-9c90-2cf08c26c19d)
-![pic4](https://github.com/ifxo/reseinww/assets/65109434/879916ce-84c1-41f3-bc78-d3f4271ac47b)![pic8](https://github.com/ifxo/reseinww/assets/65109434/7e8826d1-e56b-42b3-adee-232b802c7ede)
-![pic7](https://github.com/ifxo/reseinww/assets/65109434/c96f2a9c-4b61-4b79-8de6-c1864e4aa717)
-![pic6](https://github.com/ifxo/reseinww/assets/65109434/c1c9b871-a013-49b0-a61d-2a5bc033c13a)
-![pic5](https://github.com/ifxo/reseinww/assets/65109434/bef99869-917e-4dbe-870b-d960c1cccef0)
-3.jpeg…]()
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
